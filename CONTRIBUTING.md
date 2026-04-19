@@ -14,6 +14,8 @@ specific review notes, comparable design references, and field-test reports.
 
 - Main hardware review request:
   https://github.com/19379353560/skypilot/issues/1
+- Discussion:
+  https://github.com/19379353560/skypilot/discussions/2
 - New issue templates:
   https://github.com/19379353560/skypilot/issues/new/choose
 

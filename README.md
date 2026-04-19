@@ -128,4 +128,5 @@ English feedback is welcome. The most useful review areas are PCB layout,
 IMU/DRDY wiring, vibration isolation, INAV target configuration, and field-test
 reports from similar STM32H743 flight-controller designs.
 
-Start here: [SkyPilot H743 review request](https://github.com/19379353560/skypilot/issues/1).
+Start here: [SkyPilot H743 review request](https://github.com/19379353560/skypilot/issues/1)
+or [discussion](https://github.com/19379353560/skypilot/discussions/2).
