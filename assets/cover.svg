@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">SkyPilot H743 open flight controller</title>
+  <desc id="desc">A technical banner for an STM32H743 INAV flight controller with ICM42688P IMU and DRDY interrupt routing.</desc>
+  <rect width="1200" height="420" fill="#f8fbff"/>
+  <g transform="translate(72 62)">
+    <text x="0" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" fill="#111827">SkyPilot H743</text>
+    <text x="0" y="48" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" fill="#374151">Open STM32H743 flight-controller hardware for INAV</text>
+    <g transform="translate(0 88)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">
+      <rect x="0" y="0" width="170" height="36" rx="8" fill="#0f766e"/>
+      <text x="18" y="24" fill="#ffffff">STM32H743</text>
+      <rect x="186" y="0" width="166" height="36" rx="8" fill="#2563eb"/>
+      <text x="204" y="24" fill="#ffffff">ICM42688P</text>
+      <rect x="368" y="0" width="110" height="36" rx="8" fill="#dc2626"/>
+      <text x="386" y="24" fill="#ffffff">DRDY</text>
+    </g>
+    <text x="0" y="184" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#4b5563">EasyEDA Pro project, firmware files, and layout notes</text>
+  </g>
+  <g transform="translate(678 54)">
+    <rect x="0" y="0" width="390" height="290" rx="8" fill="#111827"/>
+    <rect x="28" y="28" width="334" height="234" rx="8" fill="#e5e7eb" stroke="#111827" stroke-width="6"/>
+    <rect x="144" y="92" width="104" height="86" rx="8" fill="#374151"/>
+    <text x="164" y="141" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#ffffff">H743</text>
+    <rect x="52" y="56" width="78" height="48" rx="8" fill="#0f766e"/>
+    <text x="66" y="86" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#ffffff">IMU 1</text>
+    <rect x="260" y="56" width="78" height="48" rx="8" fill="#0f766e"/>
+    <text x="274" y="86" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#ffffff">IMU 2</text>
+    <g stroke="#2563eb" stroke-width="5" fill="none" stroke-linecap="round">
+      <path d="M130 80 H144"/>
+      <path d="M248 80 H260"/>
+      <path d="M91 104 V206 H196 V178"/>
+      <path d="M299 104 V206 H196 V178"/>
+    </g>
+    <g fill="#111827">
+      <circle cx="60" cy="230" r="12"/>
+      <circle cx="330" cy="230" r="12"/>
+      <circle cx="60" cy="60" r="12"/>
+      <circle cx="330" cy="60" r="12"/>
+    </g>
+  </g>
+</svg>
