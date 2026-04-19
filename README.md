@@ -1,5 +1,10 @@
 # SkyPilot H743 开源飞控
 
+> **English summary:** SkyPilot H743 is an open-source STM32H743 flight controller
+> hardware project for INAV. It includes an EasyEDA Pro PCB project, prebuilt
+> INAV 9.0.1 firmware, and design notes around ICM42688P IMU sampling, DRDY
+> interrupt wiring, vibration isolation, and signal integrity.
+>
 > 基于 STM32H743 的高性能开源飞控硬件，运行 INAV 9.0.1 固件，专为追求精准飞行控制的多旋翼与固定翼平台设计。
 
 ---
