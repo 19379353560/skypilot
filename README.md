@@ -15,6 +15,10 @@
 >
 > 基于 STM32H743 的高性能开源飞控硬件，运行 INAV 9.0.1 固件，专为追求精准飞行控制的多旋翼与固定翼平台设计。
 
+> **Status:** Review [PROJECT_STATUS.md](PROJECT_STATUS.md) before building or
+> flying. Hardware review and test reports are welcome through
+> [GitHub issues](https://github.com/19379353560/skypilot/issues/new/choose).
+
 ---
 
 ## 项目简介
