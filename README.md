@@ -17,7 +17,7 @@
 
 > **Status:** Review [PROJECT_STATUS.md](PROJECT_STATUS.md) before building or
 > flying. Hardware review and test reports are welcome through
-> [GitHub issues](https://github.com/19379353560/skypilot/issues/new/choose).
+> [the current review request](https://github.com/19379353560/skypilot/issues/1).
 
 ---
 
@@ -125,3 +125,5 @@ SkyPilot H743 将 IMU 模块从主板**物理分离**，通过专用软性减震
 English feedback is welcome. The most useful review areas are PCB layout,
 IMU/DRDY wiring, vibration isolation, INAV target configuration, and field-test
 reports from similar STM32H743 flight-controller designs.
+
+Start here: [SkyPilot H743 review request](https://github.com/19379353560/skypilot/issues/1).
