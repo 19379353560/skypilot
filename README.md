@@ -1,5 +1,11 @@
 # SkyPilot H743 开源飞控
 
+[![Open hardware](https://img.shields.io/badge/open-hardware-orange)](https://github.com/19379353560/skypilot)
+[![INAV](https://img.shields.io/badge/INAV-9.0.1-blue)](https://github.com/iNavFlight/inav)
+[![MCU](https://img.shields.io/badge/MCU-STM32H743-green)](https://www.st.com/en/microcontrollers-microprocessors/stm32h743-753.html)
+[![Stars](https://img.shields.io/github/stars/19379353560/skypilot?style=social)](https://github.com/19379353560/skypilot/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/19379353560/skypilot)](https://github.com/19379353560/skypilot/commits/main)
+
 > **English summary:** SkyPilot H743 is an open-source STM32H743 flight controller
 > hardware project for INAV. It includes an EasyEDA Pro PCB project, prebuilt
 > INAV 9.0.1 firmware, and design notes around ICM42688P IMU sampling, DRDY
@@ -105,3 +111,11 @@ SkyPilot H743 将 IMU 模块从主板**物理分离**，通过专用软性减震
 - [INAV 固件源码](https://github.com/iNavFlight/inav)
 - [INAV Configurator](https://github.com/iNavFlight/inav-configurator)
 - [ICM42688P 数据手册](https://invensense.tdk.com/products/motion-tracking/6-axis/icm-42688-p/)
+
+---
+
+## Feedback Wanted
+
+English feedback is welcome. The most useful review areas are PCB layout,
+IMU/DRDY wiring, vibration isolation, INAV target configuration, and field-test
+reports from similar STM32H743 flight-controller designs.
