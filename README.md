@@ -1,5 +1,7 @@
 # SkyPilot H743 开源飞控
 
+![SkyPilot H743 banner](assets/cover.svg)
+
 [![Open hardware](https://img.shields.io/badge/open-hardware-orange)](https://github.com/19379353560/skypilot)
 [![INAV](https://img.shields.io/badge/INAV-9.0.1-blue)](https://github.com/iNavFlight/inav)
 [![MCU](https://img.shields.io/badge/MCU-STM32H743-green)](https://www.st.com/en/microcontrollers-microprocessors/stm32h743-753.html)
