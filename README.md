@@ -8,6 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/19379353560/skypilot?style=social)](https://github.com/19379353560/skypilot/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/19379353560/skypilot)](https://github.com/19379353560/skypilot/commits/main)
 [![Review snapshot](https://img.shields.io/github/v/release/19379353560/skypilot?include_prereleases&label=review%20snapshot)](https://github.com/19379353560/skypilot/releases/tag/review-2026-04-19)
+[![Contribute](https://img.shields.io/badge/contribute-good%20first%20issues-b91c1c)](https://19379353560.github.io/contribute.html)
 
 > **English summary:** SkyPilot H743 is an open-source STM32H743 flight controller
 > hardware project for INAV. It includes an EasyEDA Pro PCB project, prebuilt
@@ -130,6 +131,8 @@ reports from similar STM32H743 flight-controller designs.
 
 Start here: [SkyPilot H743 review request](https://github.com/19379353560/skypilot/issues/1)
 or [discussion](https://github.com/19379353560/skypilot/discussions/2).
+
+Good first issues and review paths: https://19379353560.github.io/contribute.html.
 
 See [ROADMAP.md](ROADMAP.md) for the current review, prototype, and flight-test
 plan.
