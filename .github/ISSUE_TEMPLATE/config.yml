@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: SkyPilot H743 review request
+    url: https://github.com/19379353560/skypilot/issues/1
+    about: Main thread for PCB, IMU, DRDY, vibration, and INAV target review.
+  - name: Hardware review checklist
+    url: https://19379353560.github.io/hardware-review-guide.html
+    about: Use this checklist before reviewing the board.
+  - name: Discussion
+    url: https://github.com/19379353560/skypilot/discussions/2
+    about: Ask lightweight questions before opening a focused issue.
