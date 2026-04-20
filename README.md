@@ -135,3 +135,5 @@ See [ROADMAP.md](ROADMAP.md) for the current review, prototype, and flight-test
 plan.
 
 Related guide: [FPV hardware review checklist](https://19379353560.github.io/hardware-review-guide.html).
+
+Safety notes: [SAFETY.md](SAFETY.md).
